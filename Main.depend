@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677665980 source:d:\oop project\student management system new\main\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<unistd.h>
+
