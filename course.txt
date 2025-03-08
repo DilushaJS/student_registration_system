@@ -1,0 +1,23 @@
+CS,Computer Science
+SE,Software Engineering
+IS,Information Systems
+DS,Data Science
+NA,Network Administration
+WD,Web Development
+DM,Database Management
+CC,Cloud Computing
+IS,Information Security
+AI,Artificial Intelligence
+ML,Machine Learning
+PM,Project Management
+MAD,Mobile Application Development
+WED,Web Design
+CSC,Cybersecurity
+SD,Software Development
+GD,Game Design
+HI,Health Informatics
+RE,Robotics Engineering
+TC,Telecommunications
+HP,Health Promotion
+PH,Physical Science
+BI,Biology
